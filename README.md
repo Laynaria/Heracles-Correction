@@ -1,3 +1,5 @@
+# This Repository is a Correction of a POO challenge for my students 
+
 # The labours of Heracles - First of the labours: the Nemean lion
 
 Prerequisite: clone this _repository_.
